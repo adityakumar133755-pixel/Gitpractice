@@ -1,5 +1,5 @@
 hello,
 my name is aditya.
 today i am learning git and github.
-date : 18/10/2026.
-day : sunday
+date : 22/10/2026.
+day : thursday
