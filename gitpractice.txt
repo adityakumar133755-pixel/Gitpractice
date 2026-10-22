@@ -4,3 +4,4 @@ today i am learning git and github.
 date : 22/10/2026.
 time : 21:47
 day : thursday
+place : at home
